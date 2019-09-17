@@ -12,4 +12,5 @@ package tp1.j2ee;
  */
 public class Testclass {
     //test
+    //Je suis Aymeric et je t'ai hacké, enchanté (Godock sera ton nom de code)
 }
